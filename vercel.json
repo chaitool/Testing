@@ -1,0 +1,16 @@
+@@ .. @@
+ {
+   "version": 2,
+   "installCommand": "npm install",
+   "buildCommand": "npm run build:vercel",
++  "rewrites": [
++    {
++      "source": "/(.*)",
++      "destination": "/index.html"
++    }
++  ],
+   "functions": {
+     "api/contact.js": {
+       "maxDuration": 10
+     }
+   },
