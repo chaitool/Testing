@@ -8,11 +8,13 @@
 +import SEO from '../components/common/SEO';
 
  const About: React.FC = () => {
+ }
 @@ .. @@
 
    return (
      <PageTransition>
 +      <SEO 
+   )
 +        title="About Me"
 +        description="Learn more about Fay_salwani - Full Stack Developer & UI/UX Designer. Discover my journey, values, and passion for creating exceptional digital experiences."
 +        keywords="about fay salwani, full stack developer story, ui ux designer background, developer journey"
