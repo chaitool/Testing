@@ -10,6 +10,8 @@
    return (
      <PageTransition>
 +      <SEO 
+   )
+ }
 +        title="Page Not Found"
 +        description="The page you're looking for doesn't exist. Return to Fay_salwani's portfolio homepage to explore projects and skills."
 +        keywords="404 error, page not found, fay salwani portfolio"

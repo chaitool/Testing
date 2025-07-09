@@ -9,11 +9,13 @@
 +import SEO from '../components/common/SEO';
 
  const Projects: React.FC = () => {
+ }
 @@ .. @@
 
    return (
      <PageTransition>
 +      <SEO 
+   )
 +        title="My Projects"
 +        description="Explore Fay_salwani's portfolio of web applications, mobile apps, and development projects. See my work with React, Node.js, and modern technologies."
 +        keywords="fay salwani projects, web development portfolio, react projects, full stack applications"

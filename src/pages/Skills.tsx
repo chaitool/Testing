@@ -8,11 +8,13 @@
 +import SEO from '../components/common/SEO';
 
  const Skills: React.FC = () => {
+ }
 @@ .. @@
 
    return (
      <PageTransition>
 +      <SEO 
+   )
 +        title="My Skills"
 +        description="Discover Fay_salwani's technical skills and expertise in frontend, backend, databases, and tools. See proficiency levels in React, Node.js, and more."
 +        keywords="fay salwani skills, technical expertise, react developer skills, full stack developer abilities"

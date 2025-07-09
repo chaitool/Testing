@@ -8,11 +8,13 @@
 +import SEO from '../components/common/SEO';
 
  const Qualifications: React.FC = () => {
+ }
 @@ .. @@
 
    return (
      <PageTransition>
 +      <SEO 
+   )
 +        title="Qualifications"
 +        description="View Fay_salwani's educational background, degrees, and professional certifications in computer science and software development."
 +        keywords="fay salwani education, computer science degree, developer qualifications, professional certifications"

@@ -9,11 +9,13 @@
 +import SEO from '../components/common/SEO';
 
  const Certificates: React.FC = () => {
+ }
 @@ .. @@
 
    return (
      <PageTransition>
 +      <SEO 
+   )
 +        title="Certificates"
 +        description="Professional certifications earned by Fay_salwani in software development, cloud computing, and technology. View verified credentials and achievements."
 +        keywords="fay salwani certificates, professional certifications, developer credentials, technology certifications"

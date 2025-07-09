@@ -9,11 +9,13 @@
 +import SEO from '../components/common/SEO';
 
  const Contact: React.FC = () => {
+ }
 @@ .. @@
 
    return (
      <PageTransition>
 +      <SEO 
+   )
 +        title="Contact Me"
 +        description="Get in touch with Fay_salwani for project collaborations, freelance work, or general inquiries. Available for remote work worldwide."
 +        keywords="contact fay salwani, hire full stack developer, freelance developer contact, project collaboration"
